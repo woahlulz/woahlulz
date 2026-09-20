@@ -2,11 +2,9 @@
   <table>
   <tr>
     <td valign="middle" align="center" width="700" height="800">
-      <br><br><p>${\textsf{\color{#B9E49F}Tree}}$ 　     　   <img src="https://files.catbox.moe/x8by1b.gif"> 　     　 ${\textsf{\color{#B9E49F}He / Him}}$</p>
-      <p>${\textsf{\color{#3DA597}pt-br / eng}}$ 　    ✦ 　    ${\textsf{\color{#3DA597}fictkin}}$ </p>
-      <br><p align="center"><img src="https://komarev.com/ghpvc/?username=treeyee&base=20000&label=leaves&base=0&color=B9E49F&style=plastic"> </p>
-      <br><br><img src="https://i.postimg.cc/KvJthCkm/953-Sem-Titulo-20260416215005.webp"width=300px>
-      <br><br>
+      <br><br><p>${\textsf{\color{#B9E49F}Carni}}$ 　     　   <img src="https://files.catbox.moe/x8by1b.gif"> 　     　 ${\textsf{\color{#B9E49F}He / They}}$</p>
+      <p>${\textsf{\color{#3DA597}adhd / bpd}}$ 　    ✦ 　    ${\textsf{\color{#3DA597}fictkin}}$ </p>
+      <br><p align="center"><img width="300px" alt="skaterlightreal" src="https://github.com/user-attachments/assets/956c831f-7711-4218-9056-6c7af036f52c" />
     <details> <summary>${\textsf{\color{#3DA597}tap}}$</summary>
       <br><p> preferably call me tree, i wont mind any nicknames or 'scott' as long as/only if we are close</p>
       <p> c + h freely, ask if we dont know each other!!</p>
