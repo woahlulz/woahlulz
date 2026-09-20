@@ -13,7 +13,7 @@
     </details>
       <img width="101" height="57" alt="skaterlightawww" src="https://github.com/user-attachments/assets/46d19c87-d4f7-42e7-bbb6-97be53176d59" />
       <br><br><p>${\textsf{\color{#73F063}ask for other socials !!}}$</p>
-     　      　     　     <a href="https://blooming-spring.atabook.org/">ata</a>  　     　     ✦ 　     　     <a href=https://pronouns.cc/@tree>prns</a>  　     　   
+     　      　     　     <a href="https://ipwnn00bzlulz.atabook.org/">ata</a>  　     　     ✦ 　     　     <a href=https://pronouns.cc/@tree>wip</a>  　     　   
     </td>
   </tr>
   </table>
