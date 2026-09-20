@@ -2,7 +2,7 @@
   <table>
   <tr>
     <td valign="middle" align="center" width="700" height="800">
-      <br><br><p>${\textsf{\color{#FF51FF}Carni}}$ 　     　   <img src="https://files.catbox.moe/x8by1b.gif"> 　     　 ${\textsf{\color{#73F063}He / They}}$</p>
+      <br><br><p>${\textsf{\color{#FF51FF}Carni}}$ 　     　   <img width="150" height="20" alt="infectedcute" src="https://github.com/user-attachments/assets/1baeb8b6-02f5-4c17-a444-ad1bfd9ba79d" /> 　     　 ${\textsf{\color{#73F063}He / They}}$</p>
       <p>${\textsf{\color{#FF51FF}adhd / bpd}}$ 　    ✦ 　    ${\textsf{\color{#73F063}fictkin}}$ </p>
       <br><p align="center"><img width="300px" alt="skaterlightreal" src="https://github.com/user-attachments/assets/956c831f-7711-4218-9056-6c7af036f52c" />
     <details> <summary>${\textsf{\color{#73F063}byi/f}}$</summary>
